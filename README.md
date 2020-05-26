@@ -37,7 +37,7 @@ cat part.txt | py 21mapper.py | sort
 cat part.txt | py 21mapper.py | sort  | py 22reducer.py
 
 ```
-## Working with larger files
+## Cmmands used to process larger files
 ```
 cat purchases.txt
 cat purchases.txt | py 21mapper.py
